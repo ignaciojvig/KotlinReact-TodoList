@@ -39,11 +39,15 @@ npm start
 
 * **João Victor Ignacio** [ignaciojvig](https://github.com/ignaciojvig)
 
-This project was developed in a Bootcamp realized by Venturus - Technological Inovation Center. The Bootcamp instructors were:
+This project was developed in a Bootcamp realized by Venturus - Technological Innovation Center. The Bootcamp instructors were:
 
 * **Thales Pires** [thalescesarp](https://github.com/thalescesarp)
 * **Marcelo Frau** [marcelofrau](https://github.com/marcelofrau)
 * **Sidnei Bernardo** [sidneibjunior](https://github.com/sidneibjunior)
+
+To read more about Venturus:
+
+[Venturus](http://www.venturus.org.br/)
 
 
 ## License
