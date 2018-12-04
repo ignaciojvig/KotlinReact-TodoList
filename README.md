@@ -1,7 +1,5 @@
 # KotlinReact-TodoList
 
-# Project Title
-
 This project is a simple and small aplication using Kotlin in React.
 
 
